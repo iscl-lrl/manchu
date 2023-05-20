@@ -1,5 +1,3 @@
-# manchu
-
 # Manchu language repository
 
 This project is for Manchu language.
